@@ -18,7 +18,7 @@ One of our main priorities is the privacy of our visitors. While using our Servi
 
 ·        AdMob (https://support.google.com/admob/answer/6128543?hl=en)
 
-·        Google Analytics for Firebase (https://firebase.google.com/policies/analytics)
+·        Yodo1 (https://www.yodo1.com/privacy/)
 
 ·        Unity (https://unity3d.com/legal/privacy-policy)
 
